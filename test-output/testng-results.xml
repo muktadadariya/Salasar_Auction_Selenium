@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7952" started-at="2015-08-23T05:02:42Z" finished-at="2015-08-23T05:02:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7952" started-at="2015-08-23T05:02:42Z" finished-at="2015-08-23T05:02:50Z">
+      <class name="salasartestngpackage.SalasarTestNGFile">
+        <test-method status="PASS" signature="launchBrowserone()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="launchBrowserone" is-config="true" duration-ms="857" started-at="2015-08-23T01:02:42Z" finished-at="2015-08-23T01:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserone -->
+        <test-method status="PASS" signature="verifyhomepagetitle()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="verifyhomepagetitle" duration-ms="30" started-at="2015-08-23T01:02:43Z" finished-at="2015-08-23T01:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhomepagetitle -->
+        <test-method status="PASS" signature="clickbuyerlogin()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="clickbuyerlogin" duration-ms="198" started-at="2015-08-23T01:02:43Z" finished-at="2015-08-23T01:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickbuyerlogin -->
+        <test-method status="PASS" signature="buyerlogin()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="buyerlogin" duration-ms="786" started-at="2015-08-23T01:02:43Z" finished-at="2015-08-23T01:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyerlogin -->
+        <test-method status="PASS" signature="waitforhomepage()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="waitforhomepage" duration-ms="27" started-at="2015-08-23T01:02:44Z" finished-at="2015-08-23T01:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitforhomepage -->
+        <test-method status="PASS" signature="verifybuyerlogin()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="verifybuyerlogin" duration-ms="745" started-at="2015-08-23T01:02:44Z" finished-at="2015-08-23T01:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybuyerlogin -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="logout" duration-ms="269" started-at="2015-08-23T01:02:45Z" finished-at="2015-08-23T01:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="waitforhomepageagain()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="waitforhomepageagain" duration-ms="469" started-at="2015-08-23T01:02:45Z" finished-at="2015-08-23T01:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitforhomepageagain -->
+        <test-method status="PASS" signature="verifylogouttitle()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="verifylogouttitle" duration-ms="24" started-at="2015-08-23T01:02:45Z" finished-at="2015-08-23T01:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogouttitle -->
+        <test-method status="PASS" signature="aboutus()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="aboutus" duration-ms="901" started-at="2015-08-23T01:02:45Z" finished-at="2015-08-23T01:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutus -->
+        <test-method status="PASS" signature="waitforaboutus()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="waitforaboutus" duration-ms="16" started-at="2015-08-23T01:02:46Z" finished-at="2015-08-23T01:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitforaboutus -->
+        <test-method status="PASS" signature="verifyaboutus()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="verifyaboutus" duration-ms="26" started-at="2015-08-23T01:02:46Z" finished-at="2015-08-23T01:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaboutus -->
+        <test-method status="PASS" signature="launchBrowsertwo()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="launchBrowsertwo" duration-ms="400" started-at="2015-08-23T01:02:46Z" finished-at="2015-08-23T01:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowsertwo -->
+        <test-method status="PASS" signature="contactus()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="contactus" duration-ms="1431" started-at="2015-08-23T01:02:47Z" finished-at="2015-08-23T01:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+        <test-method status="PASS" signature="waitforcontactus()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="waitforcontactus" duration-ms="1491" started-at="2015-08-23T01:02:48Z" finished-at="2015-08-23T01:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitforcontactus -->
+        <test-method status="PASS" signature="verifycontactus()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="verifycontactus" duration-ms="31" started-at="2015-08-23T01:02:50Z" finished-at="2015-08-23T01:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontactus -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:salasartestngpackage.SalasarTestNGFile@58ee7d10]" name="terminateBrowser" is-config="true" duration-ms="167" started-at="2015-08-23T01:02:50Z" finished-at="2015-08-23T01:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- salasartestngpackage.SalasarTestNGFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

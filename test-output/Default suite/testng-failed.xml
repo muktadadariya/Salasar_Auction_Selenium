@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="salasartestngpackage.SalasarTestNGFile">
+        <methods>
+          <include name="buyerlogin"/>
+          <include name="logout"/>
+          <include name="contactus"/>
+          <include name="verifyaboutus"/>
+          <include name="verifylogouttitle"/>
+          <include name="verifybuyerlogin"/>
+          <include name="waitforhomepageagain"/>
+          <include name="waitforcontactus"/>
+          <include name="aboutus"/>
+          <include name="launchBrowserone"/>
+          <include name="terminateBrowser"/>
+          <include name="verifycontactus"/>
+          <include name="launchBrowsertwo"/>
+          <include name="waitforaboutus"/>
+        </methods>
+      </class> <!-- salasartestngpackage.SalasarTestNGFile -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
